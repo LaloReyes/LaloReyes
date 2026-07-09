@@ -19,12 +19,17 @@
 > User: Eduardo Reyes Martínez
 > Role: Programador
 > Location: Baja California Sur, México
-> Core Objective: Diseñar y optimizar plataformas de software robustas, seguras y de alto rendimiento.
+> Core Objective: Diseñar y optimizar plataformas de software robustas, seguras.
 ```
 
-Soy un Ingeniero en Desarrollo de Software apasionado por la resolución de problemas complejos mediante código estructurado y seguro. Con experiencia tanto en el sector público como en telecomunicaciones y diseño de plataformas digitales, me enfoco en el ciclo de vida completo del desarrollo: desde la arquitectura de bases de datos hasta la interfaz del usuario.
+Soy un Ingeniero en Desarrollo de Software apasionado por la resolución de problemas complejos mediante código estructurado y seguro. Con experiencia tanto en el sector público y privado como en telecomunicaciones y diseño de plataformas digitales, me enfoco en el ciclo de vida completo del desarrollo: desde la arquitectura de bases de datos hasta la interfaz del usuario.
 
 ---
+#### 📊 Core GitHub Metrics
+<p align="center">
+  <img src="https://github.com/czl9707/gh-space-shooter/blob/main/example.gif" alt="GitHub Stats" width="100%" />
+  
+</p>
 
 ### 📡 `$ cat credentials.json`
 
@@ -81,8 +86,4 @@ Soy un Ingeniero en Desarrollo de Software apasionado por la resolución de prob
     * *Mantenimiento correctivo y preventivo de hardware y sistemas operativos.*
 
 ---
-#### 📊 Core GitHub Metrics
-<p align="center">
-  <img src="https://github.com/czl9707/gh-space-shooter/blob/main/example.gif" alt="GitHub Stats" width="100%" />
-  
-</p>
+
