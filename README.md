@@ -81,3 +81,8 @@ Soy un Ingeniero en Desarrollo de Software apasionado por la resolución de prob
     * *Mantenimiento correctivo y preventivo de hardware y sistemas operativos.*
 
 ---
+#### 📊 Core GitHub Metrics
+<p align="center">
+  <img src="https://github.com/czl9707/gh-space-shooter/blob/main/example.gif" alt="GitHub Stats" width="100%" />
+  
+</p>
